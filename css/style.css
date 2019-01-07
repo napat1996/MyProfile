@@ -54,7 +54,9 @@
 	border-width: 2px; 
 	margin-top: 06px;
 }
-
+#Skills h3{
+	font-size: 20px;
+}
 
 #Experience span{
 	padding: 10px 20px 10px 20px;
@@ -64,7 +66,18 @@
 	border-width: 2px; 
 	margin-top: 06px;
 }
+#Contract .fab{
+	color: #fff
+}
+#Contract span{
+	color: #fff
 
-h3{
-	font-size: 20px;
+}
+#Contract h1{
+	color: #fff
+}
+#Contract p{
+	font-size: 14px;
+	margin-bottom: 03px;
+	color: #ccc
 }
