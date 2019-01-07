@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta	Tag"
+			],
+			[
+				"oc",
+				"occupationCount"
+			],
+			[
+				"o",
+				"occupationCount"
+			],
+			[
+				"Map",
+				"MapReduce"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"Ca",
+				"Cashier"
+			],
+			[
+				"S",
+				"Souvenir"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"sou",
+				"Souvenir"
+			],
+			[
+				"height",
+				"max-height"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"em",
+				"employees"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"al",
+				"alt	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/napat/Desktop/bootstrap-4.2.1/site/index.html",
+		"/Users/napat/Desktop/webb/index.html",
+		"/Volumes/My Passport/WORK~/KMUTT/DB/cashier.php",
+		"/Volumes/My Passport/WORK~/KMUTT/DB/create_receipt.php",
+		"/Users/napat/KMUTT/Senior Project/dailyemo-194412-Users-export.json",
+		"/Users/napat/Downloads/CSC371HadoopAssignment2Group3.java",
+		"/Users/napat/KMUTT/DailyEmo_Data/Data_Sleep_json/sleep_2018-09-18.json",
+		"/Users/napat/KMUTT/Data/HR_2018-09-15.json",
+		"/Users/napat/KMUTT/O-BESE-GONE CD/Source Code/php/getHeart.php",
+		"/Users/napat/KMUTT/O-BESE-GONE CD/Source Code/Database/user.sql",
+		"/Users/napat/Desktop/thsplitlib-master/webservice.php",
+		"/Users/napat/Desktop/thsplitlib-master/index.php",
+		"/Users/napat/Desktop/client_id.json",
+		"/Users/napat/Desktop/homepage/static/sign_up.html",
+		"/Users/napat/KMUTT/listorder.php",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/Game.java",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/Parser.java",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/Room.java",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/CommandWords.java",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/Command.java",
+		"/Users/napat/Documents/csc319_Intro_OO_Code_Quality/Barnes-Zuul-Projects/zuul-bad/README.TXT",
+		"/private/var/folders/5n/1xh3s6_n1pg3x7gk40qzjkdr0000gn/T/fz3temp-1/header.php",
+		"/Users/napat/cucumber/test.php",
+		"/Users/napat/cucumber/calculator.css",
+		"/Users/napat/Desktop/pos.html",
+		"/Users/napat/KMUTT/DB/cashier.php",
+		"/Users/napat/Downloads/main.c",
+		"/Users/napat/Downloads/config.properties",
+		"/Users/napat/cucumber/html/1_connection.php",
+		"/Users/napat/cucumber/php/tutoral.php",
+		"/Users/napat/Desktop/sample/index.html",
+		"/Users/napat/cucumber/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"left",
+			"radius",
+			"input",
+			"Brand",
+			"Link",
+			"email",
+			"login",
+			"description",
+			"000",
+			"dental",
+			"top",
+			"important",
+			"right",
+			"margin",
+			"right",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

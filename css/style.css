@@ -1,0 +1,70 @@
+ body
+ {
+ 	background: #ccc
+ }
+
+ #Header a:hover{
+ 	color: #FFF;
+ }
+
+ #bg-img{
+ 	background: url('../img/bg.jpg');
+ 	background-size: 100%;
+ 	background-repeat: no-repeat;
+ 	min-height: 500px;
+ }
+
+ .center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.content {
+  right: 0%;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  bottom: 0;
+  margin-bottom: 150px;
+  transition: right 2s;
+
+}
+
+#About{
+	margin-top: -200px
+}
+#About .fab{
+	color: #fff
+}
+#About span{
+	padding: 10px 20px 10px 20px;
+}
+
+#About hr{
+	border-width: 2px; 
+	margin-top: 06px;
+}
+
+#Skills span{
+	padding: 10px 20px 10px 20px;
+}
+
+#Skills hr{
+	border-width: 2px; 
+	margin-top: 06px;
+}
+
+
+#Experience span{
+	padding: 10px 20px 10px 20px;
+}
+
+#Experience hr{
+	border-width: 2px; 
+	margin-top: 06px;
+}
+
+h3{
+	font-size: 20px;
+}
