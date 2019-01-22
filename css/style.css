@@ -42,7 +42,7 @@
 }
 
 #About hr{
-	border-width: 2px; 
+	border-width: 2px;
 	margin-top: 06px;
 }
 
@@ -51,7 +51,7 @@
 }
 
 #Skills hr{
-	border-width: 2px; 
+	border-width: 2px;
 	margin-top: 06px;
 }
 #Skills h3{
@@ -63,7 +63,7 @@
 }
 
 #Experience hr{
-	border-width: 2px; 
+	border-width: 2px;
 	margin-top: 06px;
 }
 #Experience img{
@@ -74,6 +74,9 @@
 	background: url('../img/portfolio.png');
 	width: 100%;
   height: auto;
+}
+#Contract .fa{
+	color: #fff
 }
 #Contract .fab{
 	color: #fff
